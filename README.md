@@ -10,11 +10,11 @@
 
 ### Sobre mi perfil técnico
 
-Cuento con un perfil técnico integral que abarca desde la administración de infraestructuras hasta la creación de aplicaciones. [cite_start]Mi base como técnico en Sistemas Microinformáticos y Redes (SMR) [cite: 9][cite_start], combinada con mis estudios actuales en Desarrollo de Aplicaciones Multiplataforma (DAM), me proporciona una visión completa del ciclo de vida de un proyecto tecnológico.
+Cuento con un perfil técnico integral que abarca desde la administración de infraestructuras hasta la creación de aplicaciones. Mi base como técnico en Sistemas Microinformáticos y Redes (SMR), combinada con mis estudios actuales en Desarrollo de Aplicaciones Multiplataforma (DAM), me proporciona una visión completa del ciclo de vida de un proyecto tecnológico.
 
-[cite_start]Destaco por ser una persona responsable, adaptable y con muchas ganas de aprender[cite: 2], asimilando rápidamente nuevas arquitecturas y lenguajes.
+Destaco por ser una persona responsable, adaptable y con muchas ganas de aprender, asimilando rápidamente nuevas arquitecturas y lenguajes.
 
-[cite_start]**Certificación destacada:** Microsoft Certified: Azure Fundamentals (AZ-900)[cite: 11], consolidando mis conocimientos en despliegues cloud.
+**Certificación destacada:** Microsoft Certified: Azure Fundamentals (AZ-900), consolidando mis conocimientos en despliegues cloud.
 
 ---
 
@@ -31,13 +31,13 @@ Cuento con un perfil técnico integral que abarca desde la administración de in
 ### Experiencia y Operaciones IT
 
 **ceFca | Especialista en Redes e Infraestructura**
-* [cite_start]Mantenimiento informático, soporte técnico y gestión de redes[cite: 16].
-* [cite_start]Resolución de incidencias y trabajo en entorno técnico especializado[cite: 16].
-* [cite_start]*Carta de recomendación disponible[cite: 17].*
+* Mantenimiento informático, soporte técnico y gestión de redes.
+* Resolución de incidencias y trabajo en entorno técnico especializado.
+* *Carta de recomendación disponible.*
 
 **Cosmética Flavia Nardi | Técnico de Sistemas Empresariales**
-* [cite_start]Soporte técnico, mantenimiento de equipos y resolución de incidencias básicas[cite: 14].
-* [cite_start]Configuración de sistemas y asistencia a usuarios en entorno empresarial[cite: 14].
+* Soporte técnico, mantenimiento de equipos y resolución de incidencias básicas.
+* Configuración de sistemas y asistencia a usuarios en entorno empresarial.
 
 ---
 
@@ -74,4 +74,4 @@ Cuento con un perfil técnico integral que abarca desde la administración de in
 
 <br>
 
-**Ubicación:** Teruel, España | [cite_start]**Idiomas:** Español (Nativo) [cite: 19][cite_start], Inglés (Buen nivel) [cite: 20][cite_start], Ruso (Nivel básico)[cite: 21].
+**Ubicación:** Zaragoza, España | **Idiomas:** Español (Nativo), Inglés (Buen nivel), Ruso (Nivel básico).
