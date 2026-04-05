@@ -44,8 +44,8 @@ Destaco por ser una persona responsable, adaptable y con muchas ganas de aprende
 ### Analíticas de Desarrollo y Contribuciones
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddenisss7&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=333333" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddenisss7&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=333333" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ddenisss7&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=333333" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddenisss7&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=333333" alt="GitHub Streak" height="195" />
 </div>
 
 <br>
@@ -54,7 +54,7 @@ Destaco por ser una persona responsable, adaptable y con muchas ganas de aprende
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddenisss7/ddenisss7/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ddenisss7/ddenisss7/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ddenisss7/ddenisss7/output/github-contribution-grid-snake.svg" width="800">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ddenisss7/ddenisss7/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
