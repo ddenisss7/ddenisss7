@@ -51,10 +51,11 @@ Destaco por ser una persona responsable, adaptable y con muchas ganas de aprende
 <br>
 
 <div align="center">
-
-![Snake Animación Modo Claro](https://raw.githubusercontent.com/ddenisss7/ddenisss7/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake Animación Modo Oscuro](https://raw.githubusercontent.com/ddenisss7/ddenisss7/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddenisss7/ddenisss7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ddenisss7/ddenisss7/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ddenisss7/ddenisss7/output/github-contribution-grid-snake.svg" width="800">
+  </picture>
 </div>
 
 ---
