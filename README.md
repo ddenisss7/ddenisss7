@@ -1,5 +1,21 @@
 ![Banner](./banner.png)
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=2%C2%BA+DAM+%C2%B7+Desarrollo+Backend+(Java%2C+Spring+Boot%2C+Python);Cloud+(Azure+AZ-900)+%26+Inteligencia+Artificial;Evaluador+de+Modelos+IA+en+Outlier+AI" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ddenisss7&color=0891b2&style=for-the-badge&label=VISITAS" alt="Visitas" />
+  <a href="https://www.linkedin.com/in/ddenisss7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dddenisss21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 # 👋 ¡Hola! Soy Denis Bannov
 
 **Desarrollo de Aplicaciones Multiplataforma (2º DAM) · Cloud (Azure / AWS) e IA**  
@@ -16,6 +32,24 @@ Estudiante de 2º de DAM en **Salesianos Zaragoza** con formación previa en **S
 - **Lenguajes y Frameworks:** Java, Spring Boot, Python, SQL, HTML5, CSS3, JavaScript, desarrollo Android y multiplataforma
 - **Bases de Datos y Cloud:** SQL Server, MySQL, Microsoft Azure (AZ-900), servicios de IA en AWS
 - **Herramientas y Sistemas:** Git / GitHub, APIs REST, integración básica con MCP, Linux, Windows Server
+
+---
+
+### 📊 Estadísticas y Actividad
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ddenisss7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddenisss7&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddenisss7/ddenisss7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ddenisss7/ddenisss7/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ddenisss7/ddenisss7/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -41,18 +75,12 @@ Estudiante de 2º de DAM en **Salesianos Zaragoza** con formación previa en **S
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddenisss7/ddenisss7/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ddenisss7/ddenisss7/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ddenisss7/ddenisss7/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
----
-
 ### 📫 Contacto e Idiomas
 
 - 💼 **LinkedIn:** [linkedin.com/in/ddenisss7](https://www.linkedin.com/in/ddenisss7/)
 - 📧 **Email:** dddenisss21@gmail.com
 - 🌐 **Idiomas:** Español (Nativo) · Inglés (Intermedio-Alto / B1–B2) · Ruso (Básico)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=100&section=footer)
