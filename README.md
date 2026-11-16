@@ -3,7 +3,7 @@
 # 👋 ¡Hola! Soy Denis Bannov
 
 **Desarrollo de Aplicaciones Multiplataforma (2º DAM) · Cloud (Azure / AWS) e IA**  
-📍 Zaragoza, España · 🎯 Buscando prácticas FCT (**marzo – junio 2027**) en desarrollo backend o cloud
+📍 Zaragoza, España · 🎓 Salesianos Zaragoza
 
 Estudiante de 2º de DAM en **Salesianos Zaragoza** con formación previa en **Sistemas Microinformáticos y Redes (SMR)**. Cuento con base en desarrollo backend (**Java, Spring Boot, Python, SQL**), certificación **Microsoft Azure Fundamentals (AZ-900)** y experiencia actual evaluando modelos multimodales de IA.
 
