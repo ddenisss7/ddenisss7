@@ -1,54 +1,45 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Denis+Bannov;Desarrollador+de+Apps+Multiplataforma;Especialista+en+Sistemas+e+Infraestructura;Profesional+Certificado+en+Azure" alt="Typing SVG" />
-</div>
+![Banner](./banner.png)
 
-<div align="center">
-  <i>Estudiante de informática con interés en desarrollo de aplicaciones y soporte técnico, enfocado en el entorno multiplataforma.</i>
-</div>
+# 👋 ¡Hola! Soy Denis Bannov
 
-<br>
+**Desarrollo de Aplicaciones Multiplataforma (2º DAM) · Cloud (Azure / AWS) e IA**  
+📍 Zaragoza, España · 🎯 Buscando prácticas FCT (**marzo – junio 2027**) en desarrollo backend o cloud
 
-### Sobre mi perfil técnico
-
-Cuento con un perfil técnico integral que abarca desde la administración de infraestructuras hasta la creación de aplicaciones. Mi base como técnico en Sistemas Microinformáticos y Redes (SMR), combinada con mis estudios actuales en Desarrollo de Aplicaciones Multiplataforma (DAM), me proporciona una visión completa del ciclo de vida de un proyecto tecnológico.
-
-Destaco por ser una persona responsable, adaptable y con muchas ganas de aprender, asimilando rápidamente nuevas arquitecturas y lenguajes.
-
-**Certificación destacada:** Microsoft Certified: Azure Fundamentals (AZ-900), consolidando mis conocimientos en despliegues cloud.
+Estudiante de 2º de DAM en **Salesianos Zaragoza** con formación previa en **Sistemas Microinformáticos y Redes (SMR)**. Cuento con base en desarrollo backend (**Java, Spring Boot, Python, SQL**), certificación **Microsoft Azure Fundamentals (AZ-900)** y experiencia actual evaluando modelos multimodales de IA.
 
 ---
 
-### Tecnologías y Herramientas
+### 🛠️ Stack Tecnológico
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,linux,windows,bash,java,html,css,js,tailwind,nextjs&theme=light" alt="Tech Stack" />
-  </a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,mysql,azure,aws,git,github,html,css,js,linux)](https://skillicons.dev)
 
----
-
-### Experiencia y Operaciones IT
-
-**ceFca | Especialista en Redes e Infraestructura**
-* Mantenimiento informático, soporte técnico y gestión de redes.
-* Resolución de incidencias y trabajo en entorno técnico especializado.
-* *Carta de recomendación disponible.*
-
-**Cosmética Flavia Nardi | Técnico de Sistemas Empresariales**
-* Soporte técnico, mantenimiento de equipos y resolución de incidencias básicas.
-* Configuración de sistemas y asistencia a usuarios en entorno empresarial.
+- **Lenguajes y Frameworks:** Java, Spring Boot, Python, SQL, HTML5, CSS3, JavaScript, desarrollo Android y multiplataforma
+- **Bases de Datos y Cloud:** SQL Server, MySQL, Microsoft Azure (AZ-900), servicios de IA en AWS
+- **Herramientas y Sistemas:** Git / GitHub, APIs REST, integración básica con MCP, Linux, Windows Server
 
 ---
 
-### Analíticas de Desarrollo y Contribuciones
+### 💼 Experiencia y Certificaciones
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddenisss7&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=333333" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddenisss7&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=333333" alt="GitHub Streak" height="195" />
-</div>
+- **Evaluador de Calidad de Datos y Modelos IA (Multilingüe)** · *Outlier AI* *(Nov. 2026 – Actualidad)*  
+  Revisión y evaluación de respuestas multimodales siguiendo rúbricas de calidad en inglés (proyecto Aether).
+- **Técnico de Soporte y Comercio Electrónico (Prácticas FCT)** · *Cosmética Flavia Nardi* *(Mar. – Jun. 2025)*  
+  Mantenimiento de tienda online en Shopify, gestión de catálogo web y resolución de incidencias técnicas.
+- **Técnico de Sistemas y Soporte IT (Prácticas FCT)** · *CEFCA* *(Mar. – Jun. 2024)*  
+  Soporte técnico en entorno científico, diagnóstico de equipos, redes locales y administración básica Linux/Windows.
 
-<br>
+**Certificaciones:**
+- ✅ **Microsoft Certified: Azure Fundamentals (AZ-900)** — Microsoft
+- 🔄 **AWS Certified AI Practitioner (AIF-C01)** — Amazon Web Services *(En curso · Enero 2027)*
+
+---
+
+### 🚀 Proyectos Destacados
+
+- **Desarrollo Backend y APIs REST** *(Java / Spring Boot / SQL / Python)* — Servicios web RESTful, operaciones CRUD, persistencia en SQL Server / MySQL y scripts de automatización en Python.
+- **Calculadoras Web de Recursos VRAM y Costes de APIs IA** *(HTML / CSS / JavaScript)* — Herramientas web para estimar requisitos de memoria VRAM en modelos locales y consumo por tokens en APIs de IA.
+
+---
 
 <div align="center">
   <picture>
@@ -60,18 +51,8 @@ Destaco por ser una persona responsable, adaptable y con muchas ganas de aprende
 
 ---
 
-### Contacto y Redes Profesionales
+### 📫 Contacto e Idiomas
 
-<div align="center">
-  <a href="mailto:dddenisss21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="http://www.linkedin.com/in/ddenisss7">
-    <img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<br>
-
-**Ubicación:** Zaragoza, España | **Idiomas:** Español (Nativo), Inglés (Buen nivel), Ruso (Nivel básico).
+- 💼 **LinkedIn:** [linkedin.com/in/ddenisss7](https://www.linkedin.com/in/ddenisss7/)
+- 📧 **Email:** dddenisss21@gmail.com
+- 🌐 **Idiomas:** Español (Nativo) · Inglés (Intermedio-Alto / B1–B2) · Ruso (Básico)
